@@ -10,7 +10,7 @@
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": "114"
     },
     {
       "id": 3,
@@ -47,6 +47,72 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Army men",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41SkjzFY7WL._SL500_AC_SS350_.jpg",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "this guy",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41SkjzFY7WL._SL500_AC_SS350_.jpg",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "jolly green giant",
+      "image": "https://i.ebayimg.com/images/g/ATsAAOxy~dNQ9iy8/s-l300.jpg",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "YO",
+      "image": "https://i.ebayimg.com/images/g/ATsAAOxy~dNQ9iy8/s-l300.jpg",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "yis",
+      "image": "https://i.ebayimg.com/images/g/ATsAAOxy~dNQ9iy8/s-l300.jpg",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "",
+      "image": "https://i.ebayimg.com/images/g/ATsAAOxy~dNQ9iy8/s-l300.jpg",
+      "likes": 0,
+      "id": 14
+    },
+    {
+      "name": "",
+      "image": "",
+      "likes": 0,
+      "id": 15
+    },
+    {
+      "name": "bob",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41SkjzFY7WL._SL500_AC_SS350_.jpg",
+      "likes": 0,
+      "id": 16
+    },
+    {
+      "name": "bob",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41SkjzFY7WL._SL500_AC_SS350_.jpg",
+      "likes": 0,
+      "id": 17
+    },
+    {
+      "name": "bob",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41SkjzFY7WL._SL500_AC_SS350_.jpg",
+      "likes": 0,
+      "id": 18
+    },
+    {
+      "name": "banjo",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41SkjzFY7WL._SL500_AC_SS350_.jpg",
+      "likes": 0,
+      "id": 19
     }
   ]
 }
